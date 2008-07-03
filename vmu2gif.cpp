@@ -1,6 +1,7 @@
+// $Id$
 /********************************************************************
  * VMU 2 GIF v1.0 (Dec/2005)
- * vmu2gif.cpp - coded by El Bucanero
+ * coded by El Bucanero
  *
  * Copyright (C) 2005 Damian Parrino <bucanero@fibertel.com.ar>
  * http://www.bucanero.com.ar/

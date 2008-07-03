@@ -1,6 +1,7 @@
+// $Id$
 /********************************************************************
  * Dreamcast VMU File Handling foundation classes v0.2 (Dec/2005)
- * dcvmu.cpp - coded by El Bucanero
+ * coded by El Bucanero
  *
  * Copyright (C) 2005 Damian Parrino <bucanero@fibertel.com.ar>
  * http://www.bucanero.com.ar/

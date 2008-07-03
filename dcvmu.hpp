@@ -1,3 +1,5 @@
+// $Id$
+
 #define ssize_t unsigned int
 #define uint8 unsigned char
 #define uint16 unsigned short
